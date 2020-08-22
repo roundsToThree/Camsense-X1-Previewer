@@ -6,8 +6,16 @@ CC BY-SA 3.0 AU
 
 Credit:  
 Bram Fenijn (https://github.com/vidicon)  
-J-Fujimoto  (https://github.com/j-fujimoto)  
+J-Fujimoto  (https://github.com/j-fujimoto)    
+# System Requirements
+Windows 10 32bit/64bit (probably works with 7 and 8)  
+//MacOS Not compiled yet  
+Linux 32bit/64bit  
+Linux ARM  
 
+>64MiB Memory  
+7KiB Disk Space (source code)  
+CPU with at least 2 threads (Clock speed prefered)  
 # Setup
 After running the application, there if a very high change that it will crash, this is normal as i havent implemented a user interface yet.  
 In the folder the program was run in, a document labeled "availablePorts.txt" should have been created after the first failed run, simply find the port you want to use and put it into the first line of the "selected Port.txt" document (example below).
