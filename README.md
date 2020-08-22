@@ -1,12 +1,12 @@
 # Camsense-X1-Previewer
 An app to preview incoming data from the Camsense® X1 LIDAR Scanner.
 
-Copyright (c) 2020 John Sakoutis 
+Copyright (c) 2020 John Sakoutis  
 CC BY-SA 3.0 AU
 
-Credit:
-Bram Fenijn (https://github.com/vidicon)
-J-Fujimoto  (https://github.com/j-fujimoto)
+Credit:  
+Bram Fenijn (https://github.com/vidicon)  
+J-Fujimoto  (https://github.com/j-fujimoto)  
 
 # Setup
 After running the application, there if a very high change that it will crash, this is normal as i havent implemented a user interface yet.  
